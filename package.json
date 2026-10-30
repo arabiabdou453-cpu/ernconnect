@@ -1,0 +1,23 @@
+{
+  "name": "ernconnect",
+  "version": "1.0.0",
+  "description": "Multi-Company CAD & Dispatch Platform for EMS and Private Ambulance Fleets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ems",
+    "cad",
+    "dispatch",
+    "epcr",
+    "ambulance",
+    "fleet-telematics",
+    "healthcare",
+    "tailwind",
+    "react"
+  ],
+  "author": "Abdou Arabi <arabiabdou453@gmail.com>",
+  "license": "MIT"
+}
